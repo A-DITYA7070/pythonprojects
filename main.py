@@ -31,5 +31,3 @@ while True:
     
 cap.release()
 cv2.destroyAllWindows()
-
-# https://github.com/We5ter/Scanners-Box wifi hacking..
